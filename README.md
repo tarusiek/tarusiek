@@ -6,7 +6,7 @@
     1. I'm mainly a front-end developer, but I can also write in python at an intermediate level.
     2. My second passion is computer networks and everything related to them.
     3. My third passion, which has no connection with IT, is gardening, 
-    I love to plant potted plants and cultivate them.
+       I love to plant potted plants and cultivate them.
        
 
 🧠 My main programming languages are: 🧠
