@@ -16,6 +16,3 @@ AI APIs & Automation:
   - Learning advanced system design
   - Exploring product engineering and SaaS development
   
-Contact:
-LinkedIn: https://www.linkedin.com/in/michalkaroltarka/
-Instagram: https://www.instagram.com/tarussiek/
